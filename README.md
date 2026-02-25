@@ -1,2 +1,4 @@
 # Meu-Primeiro-Portif-lio
-Auto explicativo, né
+Nome: Abraão José de Andrade
+Sobre mim: Jogo ✨xadrez✨
+Tecnologias que estou aprendendo: Versionamento de código
